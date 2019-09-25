@@ -1,7 +1,5 @@
-nrm -- NPM registry manager
+nrm -- NPM registry manager (v1.0.2)
 ===
-
-[![NPM version][npm-image]][npm-url]
 
 `nrm` can help you easy and fast switch between different npm registries,
 now include: `npm`, `cnpm`, `taobao`, `nj(nodejitsu)`, `rednpm`.
